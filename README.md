@@ -22,6 +22,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
+![image](https://github.com/SABARI005/InformationGathering/assets/118660461/1e51d0ac-8709-48c9-9a51-8c2ea45bb71d)
 
 
 ## RESULT:
