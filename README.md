@@ -22,8 +22,20 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
-![image](https://github.com/SABARI005/InformationGathering/assets/118660461/1e51d0ac-8709-48c9-9a51-8c2ea45bb71d)
-
+## WHOIS:
+![output1](./1.png)
+## IP2LOCATION:
+![output1](./2.png)
+## PING:
+![output1](./3.png)
+## WEB ARCHIVE:
+![output1](./4.png)
+## NMAP:
+![output1](./5.png)
+## WHATWEB:
+![output1](./6.png)
+## TRACEROUTE:
+![output1](./7.png)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
